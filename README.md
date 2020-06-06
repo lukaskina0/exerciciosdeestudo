@@ -1,0 +1,2 @@
+# exerciciosdeestudo
+Exercícios para praticar 
